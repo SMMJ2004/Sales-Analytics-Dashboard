@@ -1,4 +1,4 @@
-# Power BI Dashboard – Business Insights
+# Sales Analytics Dashboard – Business Insights
 
 ## 📌 Project Overview
 This Power BI dashboard provides interactive business insights by analyzing key performance indicators (KPIs).  
@@ -37,5 +37,5 @@ The dataset includes fields such as:
 3. Connect to dataset if required  
 4. Explore using filters and slicers  
 
-## 📧 Contact
-For questions, feel free to reach out.
+## 📧 Details
+For more details refer to the attached report.
