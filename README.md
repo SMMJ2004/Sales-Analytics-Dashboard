@@ -1,4 +1,4 @@
-# Sales Analytics Dashboard – Business Insights
+# Sales Analytics Dashboard – Power BI
 
 ## 📌 Project Overview
 This Power BI dashboard provides interactive business insights by analyzing key performance indicators (KPIs).  
