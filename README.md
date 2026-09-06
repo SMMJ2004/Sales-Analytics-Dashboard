@@ -18,9 +18,6 @@ The goal is to transform raw data into clear, actionable visuals that help in de
 - DAX (Data Analysis Expressions)  
 - Excel/CSV data source  
 
-## 📊 Dashboard Screenshots
-(Add your dashboard images here)
-
 ## 📂 Dataset
 The dataset includes fields such as:
 - Sales information  
