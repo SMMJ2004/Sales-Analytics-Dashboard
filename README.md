@@ -37,5 +37,5 @@ The dataset includes fields such as:
 3. Connect to dataset if required  
 4. Explore using filters and slicers  
 
-## 📧 Details
+## 📄 Details
 For more details refer to the attached report.
